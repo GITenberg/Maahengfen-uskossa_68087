@@ -1,0 +1,27 @@
+_repo: Maahengfen-uskossa_68087
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eerola, Eero
+    birthdate: 1884
+    deathdate: 1939
+    gutenberg_agent_id: '53276'
+    url: http://www.gutenberg.org/2009/agents/53276
+    wikipedia: https://fi.wikipedia.org/wiki/Eero_Eerola
+description: ''
+gutenberg_issued: '2022-05-15'
+identifiers:
+  gutenberg: '68087'
+language: fi
+pgterms:marc905: 20210324110407eerola
+pgterms:marc906: '1911'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: Finland :Arvi A. Karisto,1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Maahengfen uskossa
+url: http://www.gutenberg.org/ebooks/68087
